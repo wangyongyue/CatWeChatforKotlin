@@ -1,0 +1,15 @@
+<?xml version ="1.0" encoding ="utf-8"?><!--  Learn More about how to use App Actions: https://developer.android.com/guide/actions/index.html -->
+<tabs>
+    <tab
+            id="@+id/tab_favorites"
+            icon="@drawable/apple"
+            title="Favorites" />
+    <tab
+            id="@+id/tab_nearby"
+            icon="@drawable/apple"
+            title="Nearby" />
+    <tab
+            id="@+id/tab_friends"
+            icon="@drawable/apple"
+            title="Friends" />
+</tabs>
